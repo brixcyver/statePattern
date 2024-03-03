@@ -1,5 +1,7 @@
 # Bank Account Management System using State Pattern 
 
+<br>
+
 A bank needs to manage different states of customer accounts, including active, suspended, and closed. Each state has specific rules and restrictions regarding allowed operations, and accounts have associated attributes like account number and balance.
 
 * __Active accounts:__ Allow deposits and withdrawals.
