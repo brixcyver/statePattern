@@ -36,5 +36,25 @@ __If the account is closed:__
 
 <br>
 
+
+## Composition of Account:
+__Attributes:__
+* accountNumber : String
+* balance:  Double
+* accountState:  AccountState
+
+<br>
+
+## Methods:
+* Setter and getter methods
+* deposit(Double depositAmount): void
+* withdraw(Double withdrawAmount): void
+* suspend(): void
+* activate(): void
+* close() : void
+* toString()   
+
+<br>
+
 ## UML Diagram:
 
